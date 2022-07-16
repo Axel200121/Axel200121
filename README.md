@@ -1,7 +1,7 @@
 
 <p align="center" width="300">
    <img align="center" width="200" src="https://avatars.githubusercontent.com/u/85527179?v=4" />
-   <h2 align="center">¡Hey 👋! Axel Martinez 👨🏻‍💻</h2>
+   <h2 align="center">¡Hey 👋! Soy Axel Martinez 👨🏻‍💻</h2>
 </p>
 <p align="center">Soy <strong>Ingeniero en Software</strong> con especialidad en <strong>Desarrollador Full Stack Web y Movil Jr </strong></p>
 <br>
