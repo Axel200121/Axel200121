@@ -5,7 +5,7 @@
 </p>
 <p align="center">Soy <strong>Ingeniero en Software</strong> con especialidad en <strong>Desarrollador Full Stack Web y Movil Jr </strong></p>
 <br>
-<p>Soy Desarrollador de software y me apasiona solucionar problemas mediante tecnologías para facilitar el trabajo a la personas.</p>
+<p> Desarrollador de software y me apasiona solucionar problemas mediante tecnologías para facilitar el trabajo a la personas.</p>
 <h2>Estadisticas de GitHub</h2>
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Axel200121&show_icons=true&theme=tokyonight)
